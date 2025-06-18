@@ -1,6 +1,3 @@
 {
-  "buildCommand": "cd landing && npm run build",
-  "outputDirectory": "landing/build",
-  "installCommand": "cd landing && npm install",
   "framework": "create-react-app"
 } 
